@@ -1,25 +1,27 @@
-#Anna Cheremshagina
+Anna Cheremshagina ![my profile pic](https://www.facebook.com/photo.php?fbid=9044117638995665&set=pb.100001925576974.-2207520000&type=3)
+-
 
-##anna.cheremshagina@gmail.com 
+*anna.cheremshagina@gmail.com* 
 
-+1-323-903-20-16 
+*+1-323-903-20-16* 
 
-[LinkedIn Profile](https://www.linkedin.com/in/cheremshagina/) 
+Discord: *Anna C (@cheremshagina)*
 
-[GitHub](https://github.com/Cheremshagina)
+*[LinkedIn Profile](https://www.linkedin.com/in/cheremshagina/)*
 
-###Current Goal: To enter the IT field as a Front End Developer. 
+*[GitHub](https://github.com/Cheremshagina)*
 
-Soft Skills: Communicative, determined, and hardworking individual. I enjoy learning new information and applying it both in my work and life. I love to learn and help others when I am confident in my new knowledge.
+___
 
-####Skills: JavaScript, HTML, CSS, GIT Basics
 
-#####Code examples
+>**Current Goal:** An aspiring Front End Developer with a passion for building user-friendly web applications. Currently improving my skills in HTML, CSS, and JavaScript, through self-study and courses. Looking to apply my knowledge and contribute to a dynamic development team.
 
-######Working experience: Volunteer Developer - Local Non-Profit - June 2024-Present
+>**Skills:** JavaScript, HTML, CSS, GIT Basics
 
-#######Education
+>**Code examples**
 
-Online Courses: Front End Development, Rolling Scopes School - June-October 2024
+>**Working experience:** Volunteer Developer - Local Non-Profit - June 2024-Present
 
-########Languages: Native Russian, Intermediate English
+>**Education:** Moscow Financial and Industrial Academy 2006, Moscow Commercial-Banking College 2003, Online Courses: Front End Development, Rolling Scopes School - June 2024-Present
+
+>**Languages:** Native Russian, Intermediate English
