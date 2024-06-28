@@ -1,11 +1,15 @@
-Anna Cheremshagina ![my profile pic](https://www.facebook.com/photo.php?fbid=9044117638995665&set=pb.100001925576974.-2207520000&type=3)
--
+![my profile pic]()
+
+Anna Cheremshagina
+:-
+
+---
 
 *anna.cheremshagina@gmail.com* 
 
-*+1-323-903-20-16* 
+*+1 (323) 903-20-16* 
 
-Discord: *Anna C (@cheremshagina)*
+*Discord: Anna C (@cheremshagina)*
 
 *[LinkedIn Profile](https://www.linkedin.com/in/cheremshagina/)*
 
@@ -18,7 +22,7 @@ ___
 
 >**Skills:** JavaScript, HTML, CSS, GIT Basics
 
->**Code examples**
+>**Code examples** 
 
 >**Working experience:** Volunteer Developer - Local Non-Profit - June 2024-Present
 
