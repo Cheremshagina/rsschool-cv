@@ -11,7 +11,7 @@
 
 *Discord: Anna C (@cheremshagina)*
 
-*[LinkedIn Profile](https://www.linkedin.com/in/cheremshagina/)*
+*[LinkedIn](https://www.linkedin.com/in/cheremshagina/)*
 
 *[GitHub](https://github.com/Cheremshagina)*
 
