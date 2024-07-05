@@ -1,16 +1,71 @@
-html, body {
-    font-family: Arial, serif;
-    font-size: 16px;
-    margin: 0;
-    padding: 0;
+html, main 
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 70%;
+    max-width: 900px;
+    margin:  auto;
+    padding: 20px;
+    border-color: #e98b27;
+    border-block-end: #b7bbeb;
+    writing-mode: horizontal-tb;
+    background: linear-gradient(#b7bbeb, #e5c6a5);
 }
-table {
-    border-collapse: collapse;
+.avatar {
+    margin-left: 40px;
+    column-count: 2;
 }
-table.border td, table.border th {
-    padding: 5px;
-    border: 1px solid #c0c0c0;
+.name {
+    text-align: right; 
+    color: #f1eaea;   
 }
-table.border th {
-    background: #e0e0e0;
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    gap: 30px;
+    color: #eadcdc; 
+  }
+  
+  .nav-list li a {
+    color: #f1eaea;
 }
+    .nav-list li a:hover {
+  color: rgb(247, 135, 16);
+  }
+
+  .section {
+    margin-bottom: 20px;
+}
+.section1 {
+    margin-bottom: 20px;
+}
+.section2 {
+    margin-bottom: 20px;
+}
+.section3 {
+    margin-bottom: 20px;
+}
+.section4 {
+    margin-bottom: 20px;
+}
+.section5 {
+    margin-bottom: 20px;
+}
+.section6 {
+    margin-bottom: 40px;
+}
+.section7 {
+    margin-bottom: 20px;
+}
+
+
+
+footer 
+{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    color: #f1eaea;
+
+    }
