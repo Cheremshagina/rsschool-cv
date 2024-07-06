@@ -7,11 +7,18 @@ html, main
     max-width: 900px;
     margin:  auto;
     padding: 20px;
-    border-color: #e98b27;
-    border-block-end: #b7bbeb;
+    border: thick double #ab7af0;
+    border-color: #c3aaeb;
     writing-mode: horizontal-tb;
     background: linear-gradient(#b7bbeb, #e5c6a5);
 }
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 200;
+    line-height: 1.9;
+    color: #25045a;
+  }
 .avatar {
     margin-left: 40px;
     column-count: 2;
@@ -61,13 +68,12 @@ html, main
     margin-bottom: 20px;
 }
 
-
-
 footer 
-{
+
+.contacts {
     display: flex;
     justify-content: center;
     align-items: center; 
     color: #f1eaea;
-
+    gap: 20px;
     }
