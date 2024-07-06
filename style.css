@@ -4,7 +4,7 @@ html, main
     flex-direction: column;
     justify-content: space-between;
     width: 70%;
-    max-width: 900px;
+    max-width: 1000px;
     margin:  auto;
     padding: 20px;
     border: thick double #ab7af0;
@@ -30,8 +30,9 @@ body {
 .nav-list {
     display: flex;
     justify-content: flex-end;
-    gap: 30px;
-    color: #f1eaea;
+    gap: 45px;
+    color: #25045a;
+    
   }
   .nav-link {
     transition: 1s;
@@ -77,3 +78,4 @@ footer
     color: #f1eaea;
     gap: 20px;
     }
+    
