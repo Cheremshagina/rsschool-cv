@@ -1,0 +1,265 @@
+.body {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    max-width: 1280px;
+    min-width: 1280px;
+    height: 1812px;
+    margin: 0 auto;
+    overflow-x: hidden;
+    padding: 0;
+   
+}
+
+/* Header */
+
+.header-container {
+width: 100%;
+max-width: 1280px;
+height: 120px;
+background-color: #ffffff;
+display: flex;
+justify-content: space-between;
+align-items: center;
+margin: 0 auto;
+}
+
+.header {
+width: 1200px;
+height: 60px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+background-color: #ffffff;
+}
+
+.logo {
+width: 194px;
+height: 60px;
+row-gap: 10px;
+padding-left: 40px;
+display: flex;
+flex-direction: column; 
+align-items: center; 
+justify-content: center;
+}
+
+.title {
+font-family: Georgia;
+font-size: 32px;
+font-weight: 400;
+line-height: 35.2px;
+letter-spacing: 0.06em;
+text-align: left;
+color: #545454;
+}
+
+.subtitle {
+    font-family: Arial;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 14.95px;
+    letter-spacing: 0.1em;
+    height: 25px;
+    margin-bottom: auto;
+}
+
+.nav-menu {
+width: 543px;
+height: 27px;
+display: flex;
+gap: 40px;
+font-family: Arial;
+font-size: 15px;
+line-height: 14.95px;
+letter-spacing: 0.1em;
+color: #545454;
+}
+
+.nav-link {
+    display: inline-block;
+    color: #545454;
+}
+
+.nav-link_inactive {
+    color:#545454; 
+    pointer-events: none;
+    position: relative;
+    text-decoration: none;
+}
+.nav-link_inactive::after {
+    content: '';
+    position: absolute;
+      left: 0;
+      bottom: -1px; 
+      width: 100%;
+      height: 3px;
+      background-color: #F1CDB3;
+      pointer-events: none; 
+}
+
+
+
+/* Our Friends */
+
+.pets {
+width: 100%;
+height: 1342px;
+background-color: #F6F6F6;
+display: flex;
+align-items: center;
+justify-content: center;
+margin: 0 auto;
+}
+
+.pets-content {
+    width: 1200px;
+    height: 1162px;
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center;
+    gap: 90px;
+}
+
+.heading {
+width: 500px;
+height: 90px;
+font-family: Georgia;
+font-size: 35px;
+font-weight: 400;
+line-height: 45.5px;
+letter-spacing: 0.06em;
+text-align: center;
+color: #545454;
+}
+
+
+.cards-container {
+width: 1200px;
+height: 930px;
+top: 135px;
+display: flex;
+justify-content: center;
+align-items: center;
+display: grid; 
+grid-template-columns: repeat(4, 1fr);
+gap: 40px;
+width: 100%;
+
+}
+
+.card {
+    width: 270px;
+    height: 435px;
+    gap: 30px;
+    border-radius: 9px 0px 0px 0px;
+    text-align: center;
+    font-family: Georgia;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 22.72px;
+    letter-spacing: 0.06em;
+    background: #FAFAFA;
+   color:  #545454;
+    }
+
+    .button_arrow_right,
+    .button_arrow_rightend {
+        cursor: pointer;
+    }
+    .button:hover {
+        background-image: url('assets/button_learn_more_hover.png');
+        cursor: pointer; 
+      }
+    
+    .button {
+        width: 200px;
+        height: 55px;
+        background-image: url('assets/button_learn_more.png');
+        background-size: cover;
+        position: relative;
+        overflow: hidden;
+        transition: all 0.2s ease-in-out; /* Добавлено плавное изменение для всех свойств */
+    }
+
+    .button::after {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url('assets/button_learn_more_hover.png');
+        background-size: cover;
+        opacity: 0;
+        transition: opacity 0.2s ease-in-out; /* Плавный переход */
+    }
+
+    .button:hover::after {
+        opacity: 1;
+    }
+
+        /* Footer */
+
+        .footer-main {
+            width: 100%;
+            height: 350px;
+            background-image:url('assets/footer-gradient-background.png');
+            background-size: cover;
+            display: flex;
+            align-items: center; 
+            justify-content: center;
+            margin: 0 auto;
+            }
+            
+            .footer-content {
+            width: 1200px;
+            height: 310px;
+            display: flex;
+            align-items: center; 
+            justify-content: center;
+            column-gap: 40px;
+            margin-top: auto;
+            }
+            
+            .footer-contacts {
+            width: 378px;
+            height: 234px;
+            margin-bottom: auto;
+            }
+            
+            .contacts-title, .we-are-title {
+            font-family: Georgia;
+            font-size: 35px;
+            font-weight: 400;
+            line-height: 45.5px;
+            letter-spacing: 0.06em;
+            text-align: left;
+            color: #FFFFFF;
+            }
+            
+            .icon-e-mail, 
+            .icon-phone, 
+            .icon-marker,
+            .boston-address, .text {
+                font-family: Georgia;
+                font-size: 20px;
+                line-height: 23px;
+                letter-spacing: 0.06em;
+                color: #F1CDB3;
+            }
+            
+            .locations {
+            width: 402px;
+            height: 234px;
+            margin-bottom: auto;
+            }
+            
+            
+            .boston,.london, .mail,.phone {
+            display: flex; 
+            align-items: center;
+            width: 352px;
+            height: 46px;
+            gap: 20px;    
+            }
