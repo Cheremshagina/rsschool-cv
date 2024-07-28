@@ -220,12 +220,14 @@ width: 100%;
             justify-content: center;
             column-gap: 40px;
             margin-top: auto;
+            
             }
             
             .footer-contacts {
             width: 378px;
             height: 234px;
             margin-bottom: auto;
+            
             }
             
             .contacts-title, .we-are-title {
@@ -253,6 +255,7 @@ width: 100%;
             width: 402px;
             height: 234px;
             margin-bottom: auto;
+            
             }
             
             
